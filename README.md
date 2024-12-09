@@ -10,7 +10,7 @@ How to run the Online Notes Sharing System Project using PHP and MySQL:
 
 1. Download the project zip file
 
-2. Extract the file and copy file manager folder
+2. Extract the file and copy file manager folder🗂️
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
