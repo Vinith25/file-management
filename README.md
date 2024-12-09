@@ -6,7 +6,7 @@
 
 How to run the Online Notes Sharing System Project using PHP and MySQL:
 
-1. Download the file manager.rar file
+1. Download the file manager.rar file on "main" Branches or (Optional) switch Branches to select "master" / <>code / Download ZIP and follow on step (2.) to run the project.
 
 2. Extract the file and copy file manager folder🗂️
 
