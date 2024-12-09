@@ -10,6 +10,8 @@ How to run the Advance File Management System Project using PHP and MySQL:
 
 2. Extract the Downloaded ZIP file and copy file manager folder📁
 
+3. Download Xampp 👉https://www.apachefriends.org/download.html And to Start Apache, MySQL
+
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
