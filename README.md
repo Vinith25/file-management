@@ -21,3 +21,5 @@ How to run the Online Notes Sharing System Project using PHP and MySQL:
 6. Import filemanager.sql file(given inside the zip package in SQL file folder)
 
 7. Run the script http://localhost/file manager
+
+8. Create New account
