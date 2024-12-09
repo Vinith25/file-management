@@ -8,7 +8,7 @@ backup your file in local drive, can upload any file in drive.
 
 How to run the Online Notes Sharing System Project using PHP and MySQL:
 
-1. Download the files or Download the file manager.rar file
+1. Download the file manager.rar file
 
 2. Extract the file and copy file manager folder🗂️
 
