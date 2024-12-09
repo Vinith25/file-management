@@ -4,7 +4,7 @@
 
 • File storage & sharing system (like google drive). Feature rich drive storage system to manage and backup your file in local drive, can upload any file in drive.
 
-How to run the Online Notes Sharing System Project using PHP and MySQL:
+How to run the Advance File Management System Project using PHP and MySQL:
 
 1. Download the file manager.rar file on "main" Branches or (Optional) switch Branches to select "master" / <>code / Download ZIP and follow on step (2.) to run the project.
 
